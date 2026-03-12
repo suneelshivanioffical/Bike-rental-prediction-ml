@@ -4,7 +4,6 @@ This project predicts the number of bike rentals based on based on environmental
 
 ## Demo
 
-## Live Demo
 
 ## Dataset
 
