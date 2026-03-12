@@ -4,6 +4,7 @@ This project predicts the number of bike rentals based on based on environmental
 
 ## Demo
 
+![Bike Rental Prediction using Machine Learning](bike_rental_predication_demo.png)
 
 ## Dataset
 
@@ -47,7 +48,7 @@ BIKE_RENTALS_PREDICATION_ML
 
 Linear Regression
 
-## - Model Performance
+## Model Performance
 
 The machine learning model was tested to see how well it can predict the number of bike rentals.
 
